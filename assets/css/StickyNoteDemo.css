@@ -1,0 +1,14 @@
+﻿html {
+    height: 100%;margin: 0px;
+}
+
+#divStickyNotesContainer {
+    border: 4px solid #7ac0da;
+    height: 85%;margin: 0px;
+}
+
+html body {
+    position: relative;height: 100%;margin: 0px;
+    font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif
+}
+body>div{height: 100%}
